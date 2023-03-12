@@ -3,3 +3,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+:root {
+    --padding-container: 100px 0;
+    --color-title: #001A49;
+    --color1: #002547;
+    --color2: #3e5eb3;
+    --color3: #557ade;
+}
+
+
+
+
